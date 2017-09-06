@@ -1,0 +1,1 @@
+"./main.obj" "./src/ADC_Init.obj" "./src/TA_PWM.obj" "./src/UART_Init.obj" "../lnk_msp430g2553.cmd" -l"libc.a" 
